@@ -15,7 +15,8 @@ It also maintains the exact meaning of the article. It will not change the essen
 Tokenization divides the sentences and words into tokens so that it can find the word that has been repeatedly frequently placed the word in the correct place.
 
 **Technology used:**
-Python: Programming language used for implementation.
-NLTK: Library for natural language processing tasks.
-Matplotlib: Library for creating visualizations like word clouds.
+Python: Programming language used for implementation. 
+NLTK: Library for natural language processing tasks. 
+Matplotlib: Library for creating visualizations like word clouds. 
 Pandas: Data manipulation and analysis library.
+Google Calob: is an editor used to run a prohram.
